@@ -1,0 +1,10 @@
+h1{
+    color: chartreuse;
+}
+small{
+    display: block;
+}
+h3{
+    display: inline;
+    border-left: 1px solid green;
+}
